@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="home-energy-manager-sax",
-    version="0.9.0",
+    name="home-energy-manager-sax-power",
+    version="1.0.0",
     description="package for reading Sax devices",
-    url="https://github.com/Hans-4/home-energy-manager-sax",
+    url="https://github.com/Hans-4/home-energy-manager-sax-power",
     author="Hannes",
     license="MIT",
     packages=find_packages(),

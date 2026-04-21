@@ -12,7 +12,7 @@
 ## Installation
 
 ```bash
-pip install home-energy-manager-sax
+pip install home-energy-manager-sax-power
 ```
 
 ## Usage
