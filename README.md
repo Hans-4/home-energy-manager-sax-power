@@ -12,13 +12,13 @@
 ## Installation
 
 ```bash
-pip install home-energy-manager-sax-power
+pip install home-energy-manager-sax_power
 ```
 
 ## Usage
 
 ```python
-from sax.power_home_plus import PowerHomePlus
+from sax_power.power_home_plus import PowerHomePlus
 
 device = PowerHomePlus(ip="192.168.178.60")
 
