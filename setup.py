@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="home-energy-manager-sax_power",
-    version="1.0.0",
+    version="1.0.1",
     description="package for reading Sax devices",
     url="https://github.com/Hans-4/home-energy-manager-sax-power",
     author="Hannes",
